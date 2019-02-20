@@ -4,3 +4,4 @@ Anything uploaded onto avenue will first be uploaded here to be peer reviewed an
 Make sure you always pull first before pushing your own stuff so there arent any merge issues.
 I just want a 80% lads............
 
+You don't have to be a lad.
